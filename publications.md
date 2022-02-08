@@ -20,7 +20,7 @@ also available on this page.  Please let me know if you need any adapted copy of
 
 4. Leite, M. V. R., Scatalon, L. P., **Freire, A. P.**, & Eler, M. M. (2021). Accessibility in the mobile development industry in Brazil: Awareness, knowledge, adoption, motivations and barriers. *Journal of Systems and Software*, 177, 110942.<br/> [[Leite et al., 2021 available at Elsevier (subscription)]](https://doi.org/10.1016/j.jss.2021.110942)
 
-5. Tsuchiya, L. D., Braga, L. F., de Faria Oliveira, O., de Bettio, R. W., Greghi, J. G., & **Freire, A. P.** (2021). Design and evaluation of a mobile smart home interactive system with elderly users in Brazil. *Personal and Ubiquitous Computing*, 25(2), 281-295.<br/>[[Tsuchyia et al., 2021 available at Springer (subscription)]](https://dx.doi.org/10.1007/s00779-020-01408-0)<br/>[[Tsuchyia et al., 2021 - pre-print author version]](https://dx.doi.org/10.1007/s00779-020-01408-0)
+5. Tsuchiya, L. D., Braga, L. F., de Faria Oliveira, O., de Bettio, R. W., Greghi, J. G., & **Freire, A. P.** (2021). Design and evaluation of a mobile smart home interactive system with elderly users in Brazil. *Personal and Ubiquitous Computing*, 25(2), 281-295.<br/>[[Tsuchyia et al., 2021 available at Springer (subscription)]](https://dx.doi.org/10.1007/s00779-020-01408-0)<br/>[[Tsuchyia et al., 2021 - pre-print author version]](https://apfreire.github.io/papers/pauc_smart_home_elderly.pdf)
 
 
 ### Conference papers
