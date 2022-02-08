@@ -7,5 +7,3 @@ André Pimenta Freire is an associate professor of Human-Computer Interaction at
 
 
 I supervise research studies at the Graduate Programmes of [Computer Science](https://prpg.ufla.br/_ppg/computacao/) and [Public Administration](https://sigaa.ufla.br/sigaa/public/programa/portal.jsf?lc=pt_BR&id=1844).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
