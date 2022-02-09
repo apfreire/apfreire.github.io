@@ -34,7 +34,9 @@ also available on this page.  Please let me know if you need any adapted copy of
 
 11. Carvalho, L. P., Dias, F. S., & **Freire, A. P.** (2018). An analysis of five different native and web-hybrid platforms for building android apps and their accessibility for screen readers. *SBC Journal on Interactive Systems*, 9(3), 20-33.<br/> [[Carvalho et al., 2018 - available from the SBC Open Lib (open access)]](https://doi.org/10.5753/jis.2018.707)
 
+12. Dias, C. R., Pereira, M. R., & **Freire, A. P.** (2017). Qualitative review of usability problems in health information systems for radiology. *Journal of biomedical informatics*, 76, 19-33.<br/>[[Dias et al., 2017 - available from Elsevier (subscription)]](https://doi.org/10.1016/j.jbi.2017.10.004)
 
+13. de Lara, S. M. A., Fortes, R. P. D. M., Russo, C. M., & **Freire, A. P.** (2016). A study on the acceptance of website interaction aids by older adults. *Universal Access in the Information Society*, 15(3), 445-460.[[de Lara et al., 2016 - available from Springer (subscription)]](https://link.springer.com/article/10.1007/s10209-015-0419-y)
 
 ### Conference papers
 
