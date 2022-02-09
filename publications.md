@@ -44,7 +44,7 @@ also available on this page.  Please let me know if you need any adapted copy of
 
 16. Power, C., **Freire, A. P.**, & Petrie, H. (2009). Integrating accessibility evaluation into web engineering processes. International Journal of Information Technology and Web Engineering (IJITWE), 4(4), 54-77.<br/>[[Power et al., 2009 - available from IGI (subscription)]](https://www.igi-global.com/article/...journal-information-technology-web/40344)
 
-17. **Freire, A. P.**, de Castro, M., & de Mattos Fortes, R. P. (2009). Accessibility of Brazilian state government websites: a quantitative analysis between 1996 and 2007. *Revista de Administracao Publica*, 43(2), 395. [[Freire et al., 2009 - available from FGV journals (open access)]](https://www.proquest.com/docview/1643153700?pq-origsite=gscholar&fromopenview=true)
+17. **Freire, A. P.**, de Castro, M., & de Mattos Fortes, R. P. (2009). Accessibility of Brazilian state government websites: a quantitative analysis between 1996 and 2007. *Revista de Administracao Publica*, 43(2), 395.<br/> [[Freire et al., 2009 - available from FGV journals (open access)]](https://www.proquest.com/docview/1643153700?pq-origsite=gscholar&fromopenview=true)
 
 18. **Freire, A. P.**, Russo, C. M., & Fortes, R. P. M. (2008). The perception of accessibility in web development by academy, industry and government: a survey of the brazilian scenario. New Review of Hypermedia and Multimedia, 14(2), 149-175. <br/>[[Freire et al., 2008 - available from Taylor & Francis (subscription)]](https://doi.org/10.1080/13614560802624241)
 
