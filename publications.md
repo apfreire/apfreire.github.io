@@ -48,7 +48,11 @@ also available on this page.  Please let me know if you need any adapted copy of
 
 18. **Freire, A. P.**, Russo, C. M., & Fortes, R. P. M. (2008). The perception of accessibility in web development by academy, industry and government: a survey of the brazilian scenario. New Review of Hypermedia and Multimedia, 14(2), 149-175. <br/>[[Freire et al., 2008 - available from Taylor & Francis (subscription)]](https://doi.org/10.1080/13614560802624241)
 
+19. Paiva, D. M. B., **Freire, A. P.**, Lucrédio, D., Braga, R. T. V., & Fortes, R. P. M. (2007). Reinforcing Design Rationale in Software Projects Developed in Academic Environment. *International Transactions on Systems Science and Applications*, 3(4), 238-248.
 
+20. **Freire, A. P.**, Fortes, R. P. M. Separação entre Lógica, Conteúdo e Layout - Estudo de Caso de Implementação em uma Aplicação Web. *REIC. Revista Eletrônica de Iniciação Científica*, Porto Alegre-RS, v. 1, n.1, p. 1-16, 2005.
+
+21. **Freire, A. P.**, Paiva, D. M. B., & de Mattos Fortes, R. P. (2004). Implantação de Gestão Descentralizada de Recursos Acadêmicos–um estudo de caso. Revista Brasileira de Informática na Educação, 12(2), 78-85.<br/>[[Freire et al., 2004 - available from BR-IE (open access)]](http://www.br-ie.org/pub/index.php/rbie/article/view/2188)
 
 ### Conference papers
 
