@@ -26,6 +26,15 @@ also available on this page.  Please let me know if you need any adapted copy of
 
 7. Martins, L. A., Júnior, P. A., **Freire, A. P.**, & Costa, H. (2020). Evolution of quality assessment in SPL: a systematic mapping. *IET Software*, 14(6), 572-581.<br/> [[Martins et al., 2020 - available from Wiley (subscription)]](https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/iet-sen.2020.0037)
 
+8. Paiva, D. M. B., **Freire, A. P.**, & de Mattos Fortes, R. P. (2021). Accessibility and software engineering processes: A systematic literature review. *Journal of Systems and Software*, 171, 110819.<br/>[[Paiva et al., 2020 - available from Elsevier (subscription)]](https://doi.org/10.1016/j.jss.2020.110819)
+
+9. Salgado, A. L., de Mattos Fortes, R. P., de Oliveira, R. R., & **Freire, A. P.** (2020). Usability heuristics on parental privacy controls for smart toys: From an exploratory map to a confirmatory research. *Electronic Commerce Research and Applications*, 42, 100984.<br/>[[Salgado et al., 2020 - available from Elsevier (subscription)]](https://doi.org/10.1016/j.elerap.2020.100984)
+
+10. de Lima, M. A., Rodrigues, D., Almeida, P. V., Cardoso, P. C. F., & **Freire, A. P.** (2019). Análise de verbalizações de fórmulas matemáticas por professores com experiência no ensino de pessoas com deficiência visual/Analysis of mathematical formulas verbalizations by teachers with experience in teaching visually impaired people. *Revista de Estudos da Linguagem*, 27(3), 1371-1397. <br/> [[de Lima et al., 2019 - available from UFMG journals (open access)]](http://dx.doi.org/10.17851/2237-2083.27.3.1371-1397)
+
+11. Carvalho, L. P., Dias, F. S., & **Freire, A. P.** (2018). An analysis of five different native and web-hybrid platforms for building android apps and their accessibility for screen readers. *SBC Journal on Interactive Systems*, 9(3), 20-33.<br/> [[Carvalho et al., 2018 - available from the SBC Open Lib (open access)]](https://doi.org/10.5753/jis.2018.707)
+
+
 
 ### Conference papers
 
