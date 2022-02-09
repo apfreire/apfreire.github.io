@@ -36,7 +36,10 @@ also available on this page.  Please let me know if you need any adapted copy of
 
 12. Dias, C. R., Pereira, M. R., & **Freire, A. P.** (2017). Qualitative review of usability problems in health information systems for radiology. *Journal of biomedical informatics*, 76, 19-33.<br/>[[Dias et al., 2017 - available from Elsevier (subscription)]](https://doi.org/10.1016/j.jbi.2017.10.004)
 
-13. de Lara, S. M. A., Fortes, R. P. D. M., Russo, C. M., & **Freire, A. P.** (2016). A study on the acceptance of website interaction aids by older adults. *Universal Access in the Information Society*, 15(3), 445-460.[[de Lara et al., 2016 - available from Springer (subscription)]](https://link.springer.com/article/10.1007/s10209-015-0419-y)
+13. de Lara, S. M. A., Fortes, R. P. D. M., Russo, C. M., & **Freire, A. P.** (2016). A study on the acceptance of website interaction aids by older adults. *Universal Access in the Information Society*, 15(3), 445-460.<br/>[[de Lara et al., 2016 - available from Springer (subscription)]](https://link.springer.com/article/10.1007/s10209-015-0419-y)
+
+14. de Bettio, R. W., Silva, A. H., Heimfarth, T., *Freire, A. P.*, & de Sá, A. G. (2013). Model and implementation of body movement recognition using Support Vector Machines and Finite State Machines with Cartesian coordinates input for gesture-based interaction. *Journal of Computer Science and Technology*, 13(02), 69-75.<br/>[[de Bettio et al., 2013 - available from UNLLP journals (open access)]](http://journal.info.unlp.edu.ar/JCST/article/view/617)
+
 
 ### Conference papers
 
