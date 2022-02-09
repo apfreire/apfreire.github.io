@@ -57,3 +57,5 @@ also available on this page.  Please let me know if you need any adapted copy of
 ### Conference papers
 
 1. Capeleti, B. S., Dominguete, G. L., Pereira, M. R., & **Freire, A. P.** (2021). Interactive Emergency TeleHealth Systems in Pandemic Times: a Usability Evaluation in the Interior of Brazil. In *Proceedings of the XX Brazilian Symposium on Human Factors in Computing Systems* (pp. 1-7).<br/>[[Capeleti et al., 2021 - available from the ACM DL (subscription)]](https://doi.org/10.1145/3472301.3484337)<br/>[[Capeleti et al., 2021 - accepted manuscript - author's version]](https://apfreire.github.io/papers/interactive_telehealth.pdf)
+
+2. Barbareschi, G., Swaminathan, M., **Freire, A. P.**, & Holloway, C. (2021). Challenges and Strategies for Accessibility Research in the Global South: A Panel Discussion. In X *Latin American Conference on Human Computer Interaction* (pp. 1-5).<br/>[[Barbareschi et al., 2021 - available from the ACM DL (subscription)]](https://doi.org/10.1145/3488392.3488412)
