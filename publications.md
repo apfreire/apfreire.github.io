@@ -56,4 +56,4 @@ also available on this page.  Please let me know if you need any adapted copy of
 
 ### Conference papers
 
-1. Capeleti, B. S., Dominguete, G. L., Pereira, M. R., & **Freire, A. P.** (2021). Interactive Emergency TeleHealth Systems in Pandemic Times: a Usability Evaluation in the Interior of Brazil. In *Proceedings of the XX Brazilian Symposium on Human Factors in Computing Systems* (pp. 1-7).<br/>[[Capeleti et al., 2021 - available from the ACM DL (subscription)]](https://doi.org/10.1145/3472301.3484337)
+1. Capeleti, B. S., Dominguete, G. L., Pereira, M. R., & **Freire, A. P.** (2021). Interactive Emergency TeleHealth Systems in Pandemic Times: a Usability Evaluation in the Interior of Brazil. In *Proceedings of the XX Brazilian Symposium on Human Factors in Computing Systems* (pp. 1-7).<br/>[[Capeleti et al., 2021 - available from the ACM DL (subscription)]](https://doi.org/10.1145/3472301.3484337)<br/>[[Capeleti et al., 2021 - accepted manuscript author version]](https://apfreire.github.io/papers/interactive_telehealth.pdf)
